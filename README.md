@@ -3,7 +3,7 @@
 My custom dwm build.    
 Hope you like it!
 
-## Instalation
+## Installation
 
 To build dwm in your machine
 
